@@ -1,0 +1,12 @@
+{
+    "name": "slutsky/enum-example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "slutsky",
+            "email": "slutsky6@gmail.com"
+        }
+    ],
+    "require": {}
+}
