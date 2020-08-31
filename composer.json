@@ -8,5 +8,15 @@
             "email": "slutsky6@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Slutsky\\EnumExample\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Slutsky\\EnumExample\\Test\\": "tests/"
+        }
+    }
 }
